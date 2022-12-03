@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amiri&duration=4750&pause=500&color=2EF77C&multiline=true&width=435&height=95&lines=Welcome+to+my+profile!;My+name+is+Trey+Scheid.;Please+explore+about+me%2C+my+projects+and+my+articles!)](https://git.io/typing-svg)
 
-I'm a learner excited about:<br>- new and old ideas<br>- technology<br>- pictures<br>- activities<br>- thinking<br><br>I am an athlete (frisbee!), artist (photography!), and LEGO master. I want to use data to apply to all my interests and change the world in the process :)
+I'm a learner excited about:<br>- new and old ideas<br>- technology<br>- pictures<br>- activities<br>- thinking<br><br>I am an athlete (frisbee!), artist (photography!), and LEGO master. I want to use data to apply to all my interests and change the world in the process!
 
 
 ## 🌐 Socials:
@@ -19,4 +19,7 @@ I'm a learner excited about:<br>- new and old ideas<br>- technology<br>- picture
 
 [![](https://visitcount.itsvg.in/api?id=Trey-Scheid&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Happily created with 
+- GPRM gprm.itsvg.in
+- github.com/omidnikrah/github-readme-medium
+- readme-typing-svg.demolab.com/demo/?line-1=Welcome+to+my+profile%21
