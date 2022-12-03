@@ -12,8 +12,7 @@ I'm a learner excited about:<br>- new and old ideas<br>- technology<br>- picture
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Trey-Scheid&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trey-Scheid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Trey Scheid Medium](https://github-readme-medium.vercel.app/?username=treyscheid)](https://medium.com/@treyscheid)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Trey-Scheid&icon=5&color=0)](https://visitcount.itsvg.in)
