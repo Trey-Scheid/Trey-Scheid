@@ -15,7 +15,6 @@ I'm a learner excited about:<br>- new and old ideas<br>- technology<br>- picture
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Trey-Scheid&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Trey-Scheid&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trey-Scheid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Trey-Scheid&icon=5&color=0)](https://visitcount.itsvg.in)
