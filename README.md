@@ -10,7 +10,8 @@ I'm a learner excited about:<br>- new and old ideas<br>- technology<br>- picture
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 # 📝 Medium Articles
-[![Trey Scheid Medium](https://github-readme-medium.vercel.app/?username=treyscheid)](https://medium.com/@treyscheid)
+[![Trey Scheid Medium](https://github-readme-medium.vercel.app/?username=treyscheid&limit=3)](https://medium.com/@treyscheid)
+<br>showing 3 most recent<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Trey-Scheid&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
